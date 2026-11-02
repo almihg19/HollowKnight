@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(50, 51, 51);
+}
+.titulo{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(159, 120, 196);
+    border-width: 5px;
+}
+.td1{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+*{
+    text-align: center;
+}
+.contenido{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(159, 120, 196);
+    border-width: 5px;
+}
+nav{
+    background-color: rgb(248, 248, 248);
+    padding: 8px;
+    margin: 8px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(159, 120, 196);
+    border-width: 3px;
+}
+a{
+    padding-left: 75px;
+    padding-right: 75px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: large;
+    border-style: solid;
+    color: rgb(25, 27, 29);
+}
+p{
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.zonas{
+    width: 400px;
+    padding: 10px;
+}
+.zonas2{
+    border-style: solid;
+    background-color: rgb(220, 223, 226);
+}
+.mapa{
+    width: 50%;
+    border-style: solid;
+    border-radius: 20px;
+}
+li{
+    list-style-type: none;
+    padding-left: 23%;
+}
+ul{
+    border-style: solid;
+    background-color: #1A1E23;
+    width: 900px;
+    border-radius: 10px;
+}
+.amuleto{
+    border-style: solid;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #2A2E32;
+}
+.enlace{
+    font-size: large;
+}
+.externo{
+    border-style: none;
+}
+.recuerdo{
+    border-radius: 20px;
+    border-style: ridge;
+    border-width: 10px;
+    margin: 10px;
+    margin-left: 80px;
+}
+.recuerdos1{
+    width: 70%; 
+}
+.recuerdos2{
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(195, 201, 201);
+}
+.formulario{
+    margin: 50px;
+}
+button{
+    height: 50px;
+    width: 150px;
+}
+.contacto{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 400px;
+    margin-right: 400px;
+}
